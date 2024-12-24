@@ -5,8 +5,8 @@ Este é um cartão de Natal interativo simples, desenvolvido com HTML, CSS e Jav
 ## 🎁 Como usar
 
 1. Clone o repositório ou baixe os arquivos.
-2. 🌐 Abra o arquivo `index.html` em seu navegador para ver o cartão de Natal.
-3. ✨ Clique no botão para ver a surpresa de Natal!
+2. Abra o arquivo `index.html` em seu navegador para ver o cartão de Natal.
+3. Clique no botão para ver a surpresa de Natal!
 
 ## 🔧 Tecnologias Utilizadas
 
