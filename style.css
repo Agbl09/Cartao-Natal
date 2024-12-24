@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+.cartao {
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.mensagem {
+    font-size: 36px;
+    color: #2d8b6e;
+    margin-bottom: 20px;
+}
+
+.tree {
+    position: relative;
+    margin: 20px 0;
+}
+
+.folhas {
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 60px solid #2d8b6e;
+    margin-bottom: -10px;
+}
+
+.estrela {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid yellow;
+    position: absolute;
+    top: -30px;
+    left: 20px;
+}
+
+button {
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #ff5a4d;
+}
+
+.surpresa {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #2d8b6e;
+    display: none;
+}
