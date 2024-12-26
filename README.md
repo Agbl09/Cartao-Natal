@@ -8,6 +8,10 @@ Este é um cartão de Natal interativo simples, desenvolvido com HTML, CSS e Jav
 2. Abra o arquivo `index.html` em seu navegador para ver o cartão de Natal.
 3. Clique no botão para ver a surpresa de Natal!
 
+## 🚀Veja mais rapidamente pelo GitPage
+
+Acesse [aqui](https://agbl09.github.io/Cartao-Natal/) a página do Cartão Natalino!
+
 ## 🔧 Tecnologias Utilizadas
 
 - HTML5
