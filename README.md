@@ -15,7 +15,7 @@ Este é um cartão de Natal interativo simples, desenvolvido com HTML, CSS e Jav
 <div align="center">
   <h2>🚀 Veja mais rapidamente pelo GitPage</h2>
 
-Acesse [aqui](https://agbl09.github.io/Cartao-Natal/) a página do Cartão Natalino!
+Acesse [aqui](https://gabriela-agbl.github.io/Cartao-Natal/) a página do Cartão Natalino!
 </div>
 
 <div align="center">
@@ -39,6 +39,6 @@ Acesse [aqui](https://agbl09.github.io/Cartao-Natal/) a página do Cartão Natal
   <h2>📜 Licença:</h2>
   Este projeto foi desenvolvido para fins educacionais. Sinta-se à vontade para reutilizar, modificar ou melhorar o código de acordo com suas necessidades.
 
-  Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+  Feito por [Gabriela Rodrigues](https://github.com/gabriela-agbl)
 
 </div>
